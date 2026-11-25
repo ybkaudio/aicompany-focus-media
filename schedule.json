@@ -25,5 +25,59 @@
   "first_line": "OpenAI보다 7년 늦게 출발한 회사가 31개월 만에 2,500억 달러에 팔렸습니다.",
   "music": "Daft Punk – Contact",
   "posted": true
+ },
+ {
+  "queued": "2026-11-26T01:43:00+09:00",
+  "folder": "posts/04-databricks",
+  "episode": "AI #04 Databricks",
+  "count": 18,
+  "first_line": "20만 달러로 작게 시작하려던 연구자 7명의 회사가 기업가치 1,900억 달러가 됐습니다.",
+  "music": "Tycho – Awake",
+  "posted": false
+ },
+ {
+  "queued": "2026-11-26T01:43:03+09:00",
+  "folder": "posts/05-waymo",
+  "episode": "AI #05 Waymo",
+  "count": 18,
+  "first_line": "방송용 피자 배달 무인차에서 시작한 프로젝트가 기업가치 1,260억 달러 회사가 됐습니다.",
+  "music": "M83 – Outro",
+  "posted": false
+ },
+ {
+  "queued": "2026-11-26T01:43:06+09:00",
+  "folder": "posts/06-anduril",
+  "episode": "AI #06 Anduril",
+  "count": 18,
+  "first_line": "Facebook을 떠난 팔머 러키가 투자자 트레이 스티븐스와 세운 방산 회사가 9년 만에 기업가치 610억 달러가 됐습니다.",
+  "music": "Hans Zimmer – Time",
+  "posted": false
+ },
+ {
+  "queued": "2026-11-26T01:43:08+09:00",
+  "folder": "posts/07-deepseek",
+  "episode": "AI #07 DeepSeek",
+  "count": 17,
+  "first_line": "외부 투자 없이 3년을 버틴 중국 AI 회사의 기업가치가 약 900억 달러라는 보도(로이터)가 나왔습니다.",
+  "music": "Ryuichi Sakamoto – Energy Flow",
+  "posted": false
+ },
+ {
+  "queued": "2026-11-26T01:43:12+09:00",
+  "folder": "posts/08-cursor",
+  "episode": "AI #08 Cursor",
+  "count": 17,
+  "first_line": "MIT 동기 4명이 세운 코딩 도구 회사가 창업 4년 만에 600억 달러에 팔렸습니다.",
+  "music": "Tycho – Awake",
+  "posted": false
+ },
+ {
+  "queued": "2026-11-26T01:43:14+09:00",
+  "folder": "posts/09-moonshot",
+  "episode": "AI #09 Moonshot AI",
+  "count": 17,
+  "first_line": "좋아하는 앨범 50주년에 세운 회사가 3년 만에 기업가치 350억 달러가 됐습니다.",
+  "music": "Pink Floyd – Eclipse",
+  "posted": false
  }
 ]
